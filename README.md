@@ -3,6 +3,19 @@ Simple blog site where you can create new articles or view, edit, or delete exis
 
 Heroku Link: http://shinbun.herokuapp.com/ (shinbun is Japanese for newspaper)
 
+## Technologies
+
+* Node v11.15.0
+* npm 6.13.7
+* MongoDB
+* Bootstrap
+
+## Setup
+
+To set up this app, download or clone this repo and run the following commands in your terminal in the exact order:
+* ```install MongoDB```
+* ```npm run devStart```
+* ```navigate your browser to localhost:5000```
 
 ## Screenshots
 Home Page
